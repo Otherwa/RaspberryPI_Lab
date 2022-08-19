@@ -1,6 +1,6 @@
 # RaspberryPI_Lab
 Source Code
 
-# Fo more info refer
+# For more info refer
+`basics of raspberry pi`
 https://core-electronics.com.au/guides/raspberry-pi-workshop-for-beginners/
-[Link](https://core-electronics.com.au/guides/raspberry-pi-workshop-for-beginners/) 
